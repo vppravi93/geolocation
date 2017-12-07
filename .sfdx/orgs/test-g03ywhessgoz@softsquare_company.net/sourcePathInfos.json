@@ -2,14 +2,14 @@
     [
         "/Users/softsquare/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1512632922000,
             "changeTime": 1512632922000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/softsquare/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1512632922000,
             "changeTime": 1512632922000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,252 +32,588 @@
     [
         "/Users/softsquare/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1512639346000,
-            "changeTime": 1512639346000,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 68,
-            "modifiedTime": 1512632922000,
-            "changeTime": 1512632922000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 170,
+            "modifiedTime": 1512641020000,
+            "changeTime": 1512641020000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
         "/Users/softsquare/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/softsquare/geolocation",
             "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1512640203000,
+            "changeTime": 1512640203000,
+            "contentHash": "5d1ba67a05d9fb577dcd0d085dc7ad2330ae4563",
             "isMetadataFile": false,
-            "size": 238,
-            "modifiedTime": 1512637952000,
-            "changeTime": 1512637952000,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4797,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
             "isMetadataFile": true,
-            "size": 4711,
-            "modifiedTime": 1512639346000,
-            "changeTime": 1512639346000,
-            "contentHash": "667bd1c773e7996915bad7d6e59769d85c03313b"
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 17142,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14",
             "isMetadataFile": true,
-            "size": 17057,
-            "modifiedTime": 1512639346000,
-            "changeTime": 1512639346000,
-            "contentHash": "5e6e1fc5475edeb0186191fd36118cce14afc790"
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4457,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
             "isMetadataFile": true,
-            "size": 4371,
-            "modifiedTime": 1512639346000,
-            "changeTime": 1512639346000,
-            "contentHash": "bcf8892528a54d5baff2ac525953149769e34930"
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4461,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
             "isMetadataFile": true,
-            "size": 4375,
-            "modifiedTime": 1512639346000,
-            "changeTime": 1512639346000,
-            "contentHash": "8515dec4e2d00e3ded88d56a464e356f866bba30"
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/softsquare/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1512639346000,
             "changeTime": 1512639346000,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1512640293000,
+            "changeTime": 1512640293000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1512640376000,
+            "changeTime": 1512640376000,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1512640293000,
+            "changeTime": 1512640293000,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1512640456000,
+            "changeTime": 1512640456000,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182,
+            "modifiedTime": 1512641075000,
+            "changeTime": 1512641075000,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1512640456000,
+            "changeTime": 1512640456000,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 132,
+            "modifiedTime": 1512640494000,
+            "changeTime": 1512640494000,
+            "contentHash": "6eb76ff4d3dde4d4383dea4d0dfab474d2f056b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1512640456000,
+            "changeTime": 1512640456000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1512640456000,
+            "changeTime": 1512640456000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1512640456000,
+            "changeTime": 1512640456000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 272,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "69622868a81d9fefeeebbb844f7181297eaea70d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512640804000,
+            "changeTime": 1512640804000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1512641020000,
+            "changeTime": 1512641020000,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1512640947000,
+            "changeTime": 1512640947000,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 390,
+            "modifiedTime": 1512641030000,
+            "changeTime": 1512641030000,
+            "contentHash": "8b293536a0b5c864a64ad1c17c5f5a6efac9df47"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1512641020000,
+            "changeTime": 1512641020000,
+            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1512641057000,
+            "changeTime": 1512641057000,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1512641046000,
+            "changeTime": 1512641046000,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1512641020000,
+            "changeTime": 1512641020000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1512641020000,
+            "changeTime": 1512641020000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1512640959000,
+            "changeTime": 1512640959000,
+            "contentHash": "9b4234419cef0a2a09d36b256ebd60aac8a1a2b2"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1512640947000,
+            "changeTime": 1512640947000,
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1512640976000,
+            "changeTime": 1512640976000,
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1512640947000,
+            "changeTime": 1512640947000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1512640947000,
+            "changeTime": 1512640947000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/softsquare/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1512640947000,
+            "changeTime": 1512640947000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
